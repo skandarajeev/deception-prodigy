@@ -1,7 +1,171 @@
 {
-   "start" : {"value": "This is where you put your text", 
-   "children": [{"title":"This is what button displays", "name":"next_card"}]},
+   "start" : {"value": "Round 3", 
+   "children": [{"title":"Start", "name":"card1"}]},
 
-   "next_card" : {"value": "xfofjsfj", 
-   "children": [{"title":"This is what button displays", "name":"this is what button links towards"}]}
-}
+   "card1" : {"value": "This government is a complete and utter failure. #Resign! Losers!", 
+   "children": [{"title":"tweet this", "name":"set1"},
+                {"title":"not this", "name":"card2"}]},
+
+   "card2" : {"value": "The Mainstream Media is one massive conspiracy. #FakeNews", 
+   "children": [{"title":"tweet this", "name":"set1"},
+                {"title":"not this", "name":"card3"}]},
+
+   "card3" : {"value": "Is everybody else stupid or what? The Earth is not flat, it's a CUBE!! #Conspiracy", 
+   "children": [{"title":"tweet this", "name":"set1"},
+                {"title":"not this", "name":"card1"}]},
+                             
+                "set1" : {"value": "To gain notoriety, we can start by borrowing someone else's credibility. What do you want to do?", 
+                "children": [{"title":"Fake an official Twitter account", "name":"ot"},
+                             {"title":"Impersonate someone important", "name":"ot"}]},
+
+                             "ot" : {"value": "JOE BIDEÑ: As your President, I have issued an executive order to rename Canada to North North Dakota #YouGotAnnexed", 
+                             "children": [{"title":"tweet this", "name":"lan"},
+                                          {"title":"not this", "name":"ot1"}]},
+                     
+                             "ot1" : {"value": "NÄSA: Meteorite alert: large space object set to hit US West Coast. #BeSafe", 
+                             "children": [{"title":"tweet this", "name":"lan"},
+                                      {"title":"not this", "name":"ot2"}]},
+
+                            "ot2" : {"value": "NICKELODEØN: We are announcing the immediate and permanent cancellation of SpongeBob Squarepants. #ImReady!", 
+                            "children": [{"title":"tweet this", "name":"lan"},
+                                         {"title":"not this", "name":"ot"}]},
+           
+                                         "lan" : {"value": "THE LIVES OF ANTS: THE JOY OF ROUTINE", 
+                                         "children": [{"title":"tweet this", "name":"im"},
+                                                      {"title":"not this", "name":"lan1"}]},
+
+                                         "lan1" : {"value": "THE 25 MOST POPULAR TV SHOWS!", 
+                                         "children": [{"title":"tweet this", "name":"im"},
+                                                      {"title":"not this", "name":"lan2"}]},
+    
+                                          "lan2" : {"value": "BREAKING: PRESIDENT TO VISIT LUXEMBOURG EARLY NEXT YEAR", 
+                                          "children": [{"title":"tweet this", "name":"im"},
+                                                                    {"title":"not this", "name":"lan"}]},
+                                                         
+                                                                    "im" : {"value": "SCIENTISTS: 'CLIMATE CHANGE COULD HAVE A SERIOUS NEGATIVE IMPACT ON OUR WAY OF LIFE.'", 
+                                                                    "children": [{"title":"tweet this", "name":"can"},
+                                                                                 {"title":"not this", "name":"im1"}]},     
+
+                                                                                 "im1" : {"value": "SCIENTISTS: 'CLIMATE CHANGE WILL DESTROY THE WORLD'", 
+                                                                                 "children": [{"title":"tweet this", "name":"can"},
+                                                                                              {"title":"not this", "name":"im2"}]},     
+             
+                                                                                 "im2" : {"value": "SCIENTISTS USE DIFFICULT WORDS TO DESCRIBE COMPLEX ISSUES", 
+                                                                                 "children": [{"title":"tweet this", "name":"can"},
+                                                                                               {"title":"not this", "name":"im3"}]},   
+                                                                                                           
+                                                                                 "im3" : {"value": "DO WE REALLY KNOW THE CLIMATE IS CHANGING?", 
+                                                                                 "children": [{"title":"tweet this", "name":"can"},
+                                                                                              {"title":"not this", "name":"im1"}]},                
+                                                          
+                                                                                 
+                                                                    "can" : {"value": "GENETICALLY MODIFIED FOODS POSE 'NO RISK' TO HUMAN HEALTH EXPERTS SAY IN NEW REPORT.", 
+                                                                   "children": [{"title":"tweet this", "name":"im"},
+                                                                                {"title":"not this", "name":"can1"}]},          
+
+                                                                                "can1" : {"value": "MOTHER DIES AFTER EATING GENETICALLY MODIFIED CHICKEN WINGS", 
+                                                                                "children": [{"title":"tweet this", "name":"adi"},
+                                                                                             {"title":"not this", "name":"can2"}]},     
+
+                                                                                "can2" : {"value": "MY STORY: SEVERE STOMACH PROBLEMS AFTER EATING SUPERMARKET VEGETABLES FOR YEARS", 
+                                                                                "children": [{"title":"tweet this", "name":"adi"},
+                                                                                             {"title":"not this", "name":"can3"}]},     
+                                                                                                          
+                                                                                "can3" : {"value": "IT'S DIFFICULT TO KNOW WHAT GENES WE'RE MODIFYING", 
+                                                                                "children": [{"title":"tweet this", "name":"adi"},
+                                                                                             {"title":"not this", "name":"can1"}]},
+        
+
+                                                                  "adi" : {"value": "Social media is full of potential scandals you can amplify. Let's drive left and right apart. The centre is no longer an option!", 
+                                                                  "children": [{"title":"cool", "name":"adi1"}]},
+
+                                                                               "adi1" : {"value": "That's the second accidental chemical spill in 4 months. Our town's river is turning a bit yellow... #questions", 
+                                                                               "children": [{"title":"tweet this", "name":"cla"},
+                                                                                            {"title":"not this", "name":"adi2"}]},
+
+                                                                                            "cla" : {"value": "There are two possible angles here: either corporations are to blame, or the government is. Who's your target?", 
+                                                                                            "children": [{"title":"the goverment", "name":"cla1"},
+                                                                                                         {"title":"Big corporations", "name":"cla2"}]},
+
+                                                                                                         "cla1" : {"value": "@Susan's story is a good example of how the government is currently lacking capacity #SpillingScandal", 
+                                                                                                         "children": [{"title":"tweet this", "name":"cla1a"}]},
+             
+                                                                                                                      "cla1a" : {"value": "GOVERNMENT COVERING UP HUGE CHEMICAL SPILL", 
+                                                                                                                      "children": [{"title":"tweet this", "name":"nid"},
+                                                                                                                      {"title":"not this", "name":"cla1b"}]},
+
+                                                                                                                      "cla1b" : {"value": "SLIGHT INCREASE IN CHEMICAL SPILLS. GOVERNMENT NOW WRITING UP REPORT", 
+                                                                                                                      "children": [{"title":"tweet this", "name":"nid"},
+                                                                                                                      {"title":"not this", "name":"cla1c"}]},
+
+                                                                                                                      "cla1c" : {"value": "DEADLY CHEMICAL SPILLS ON REPEAT. GOVERNMENT KILLING CITIZENS", 
+                                                                                                                      "children": [{"title":"tweet this", "name":"nid"},
+                                                                                                                                   {"title":"not this", "name":"cla1a"}]},
+
+                                                                                                        "cla2" : {"value": "@Susan's story is an example of how some corporations lack regulation to some extent #SpillingScandal", 
+                                                                                                                      "children": [{"title":"tweet this", "name":"cla2a"}]},
+
+                                                                                                                      "cla2a" : {"value": "CORPORATION RECKLESSLY SPILLING CHEMICALS INTO RIVER ", 
+                                                                                                                      "children": [{"title":"tweet this", "name":"nid"},
+                                                                                                                      {"title":"not this", "name":"cla2b"}]},
+
+                                                                                                                      "cla2b" : {"value": "SOME DOUBTS ABOUT CORPORATION'S TESTIMONY ABOUT SPILLING SCANDAL", 
+                                                                                                                      "children": [{"title":"tweet this", "name":"nid"},
+                                                                                                                      {"title":"not this", "name":"cla2c"}]},
+
+                                                                                                                      "cla2c" : {"value": "CORPORATION REFUSES TO FILL IN TOWNSFOLK ON DEADLY SPILLS", 
+                                                                                                                      "children": [{"title":"tweet this", "name":"nid   "},
+                                                                                                                                   {"title":"not this", "name":"cla2a"}]},
+
+                                                                                  "adi2" : {"value": "So they're building a new power plant in my town but no one wants it here.. #BriberyMaybe?", 
+                                                                               "children": [{"title":"tweet this", "name":"nid"},
+                                                                               {"title":"not this", "name":"adi3"}]},
+
+                                                                               "adi3" : {"value": "Wow.. just saw the police arrest a guy.. scary stuff! #AreWeSafe?", 
+                                                                               "children": [{"title":"tweet this", "name":"nid"},
+                                                                               {"title":"not this", "name":"adi3"}]}
+
+
+                                                                               
+
+
+
+
+
+                                                                  
+                     
+             
+        
+        
+        
+        
+        
+        
+                                                                              }                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
