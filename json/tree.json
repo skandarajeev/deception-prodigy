@@ -1,46 +1,4 @@
 {
-    "start": {
-        "value": "Do you like joseph",
-        "points": 2,
-        "children": [
-            {
-                "name": "yes",
-                "title": "YES"
-            },
-            {
-                "name": "no",
-                "title": "NO"
-            }
-        ]
-    },
-    "yes": {
-        "value": "Don't Lie ",
-        "children": [
-            {
-                "name": "start",
-                "title": "Go Back "
-            }
-        ]
-    },
-    "no": {
-        "value": "Why don't you like joseph",
-        "children": [
-            {
-                "title": "people are too hot",
-                "name": "hot"
-            },
-            {
-                "title": "people are too cool",
-                "name": "cool"
-            }
-        ]
-    },
-    "4": {
-        "value": "bla bla bla",
-        "children": [
-            "8",
-            "9"
-        ]
-    },
-    "cool": {"value" : "Skanda is the coolest person in the class", "children" : [{"title": "agreed", "name": "start"}]}
+   "start" : {"value": "This is where you put your text", 
+   "children": [{"title":"This is what button displays", "name":"this is what button links towards"}]}
 }
