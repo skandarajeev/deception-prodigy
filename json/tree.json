@@ -1,4 +1,7 @@
 {
    "start" : {"value": "This is where you put your text", 
+   "children": [{"title":"This is what button displays", "name":"next_card"}]},
+
+   "next_card" : {"value": "xfofjsfj", 
    "children": [{"title":"This is what button displays", "name":"this is what button links towards"}]}
 }
