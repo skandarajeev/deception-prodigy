@@ -1,21 +1,11 @@
 import useSWR from "swr";
 import { useState, useEffect } from "react";
-
-export function createCard(data, cardNumber) {
-  return (
-    //USE HOOKS TO RUN THE BUTTONS
-    <div id="divChoices" align="center">
-      <h1>{data.start.value}</h1>
-      {choices(data)}
-    </div>
-  );
-}
+import styles from "@/styles/game.module.css";
 
 export default function page() {
   const [card, newChoice] = useState("start");
-  function createCard(value) {
-    return <h1>{value}</h1>;
-  }
+  const [progress, updateProgress] = useState([]);
+  const [parentButton, changeParent] = useState({});
 
   const fetcher = (data) =>
     fetch(data, {
@@ -24,7 +14,20 @@ export default function page() {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({ chosen: card }),
-    }).then((data) => data.json());
+    })
+      .then((data) => data.json())
+      .then((data) => {
+        if (parentButton.stay) {
+          let list = progress;
+          list[list.length - 1] = data;
+          updateProgress(list);
+        } else {
+          let list = progress.concat(data);
+
+          updateProgress(list);
+        }
+        return data;
+      });
 
   const { data, error, isLoading, mutate } = useSWR("/api/hello", fetcher, {
     revalidateIfStale: false,
@@ -36,14 +39,20 @@ export default function page() {
   if (data) {
     return (
       <div>
-        {createCard(data.value)}
+        {progress.map((card) => (
+          <div className={styles.card}>
+            <h1>{card.value}</h1>
+          </div>
+        ))}
         {data.children.map((choice) => (
           <button
-            name="choice"
+            className={styles.button54}
             align="center"
             key={choice.id}
             onClick={async () => {
+              await changeParent(choice);
               await newChoice(choice.name);
+
               mutate();
             }}
           >
