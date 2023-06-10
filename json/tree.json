@@ -123,7 +123,420 @@
 
                                                                                "adi3" : {"value": "Wow.. just saw the police arrest a guy.. scary stuff! #AreWeSafe?", 
                                                                                "children": [{"title":"tweet this", "name":"nid"},
-                                                                               {"title":"not this", "name":"adi3", "stay" : "true"}]}
+                                                                               {"title":"not this", "name":"adi3", "stay" : "true"}]},
+
+
+
+
+                                                                               "rob" : {"value": "let's change up the genaric choiches with somthing a little more... umm... CONTRAVERSIAL!!! you gotta chosse the most liked tweet among these 4 tweets in each option (they are from twitter and not made up)", 
+                                                                               "children": [{"title":"OKAY!!", "name":"cat"}]},
+
+                                                                     
+                                                                     
+                                                                               "cat" : {"value": "@elonmusk : Scrolling through tweets while watching mini video (pic in pic) is great", 
+                                                                               "children": [{"title":"tweet this", "name":"dod"},
+                                                                               {"title":"not this", "name":"cat1", "stay" : "true"}]},
+
+                                                                               "cat1" : {"value": "@elonmusk : *🇺🇸* For those who died for freedom *🇺🇸*", 
+                                                                               "children": [{"title":"tweet this", "name":"dod"},
+                                                                               {"title":"not this", "name":"cat2", "stay" : "true"}]},
+
+                                                                               "cat2" : {"value": "va@elonmusk : I was today’s years old when I learned that some people genuinely love cooked salmon", 
+                                                                               "children": [{"title":"tweet this", "name":"dod"},
+                                                                               {"title":"not this", "name":"cat3", "stay" : "true"}]},
+
+                                                                               "cat3" : {"value": "@elonmusk : Walter @WalterIsaacson is incredibly thorough in his research. Highly recommend his other books!", 
+                                                                               "children": [{"title":"tweet this", "name":"dod"},
+                                                                               {"title":"not this", "name":"cat", "stay" : "true"}]},
+
+                                                                        
+                                                                        
+                                                                               "dod" : {"value": "@HBCompass : The Prison Journalism Project's work is so so important. Always eager to hear @yukarikane talk about the work of this important organization. #CJS2023", 
+                                                                               "children": [{"title":"tweet this", "name":"dog"},
+                                                                               {"title":"not this", "name":"dod1", "stay" : "true"}]},
+
+                                                                               "dod1" : {"value": "@HBCompass : chris licht: the latest in a line of media leaders who burned their own house down with their determination to be antiwoke and prove their “independence” from liberals who criticize them on twitter", 
+                                                                               "children": [{"title":"tweet this", "name":"dog"},
+                                                                               {"title":"not this", "name":"dod2", "stay" : "true"}]},
+
+                                                                               "dod2" : {"value": "@HBCompass : ", 
+                                                                               "children": [{"title":"tweet this", "name":"dog"},
+                                                                               {"title":"not this", "name":"dod3", "stay" : "true"}]},
+
+                                                                               "dod3" : {"value": "@HBCompass : ", 
+                                                                               "children": [{"title":"tweet this", "name":"dog"},
+                                                                               {"title":"not this", "name":"dod", "stay" : "true"}]},
+
+                                                                        
+                                                                        
+                                                                               "dog" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"rat"},
+                                                                               {"title":"not this", "name":"dog1", "stay" : "true"}]},
+
+                                                                               "dog1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"rat"},
+                                                                               {"title":"not this", "name":"dog2", "stay" : "true"}]},
+
+                                                                               "dog2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"rat"},
+                                                                               {"title":"not this", "name":"dog3", "stay" : "true"}]},
+
+                                                                               "dog3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"rat"},
+                                                                               {"title":"not this", "name":"dog", "stay" : "true"}]},
+                                                                        
+                                                                        
+                                                                               "rat" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"hat"},
+                                                                               {"title":"not this", "name":"rat1", "stay" : "true"}]},
+
+                                                                               "rat1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"hat"},
+                                                                               {"title":"not this", "name":"rat2", "stay" : "true"}]},
+
+                                                                               "rat2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"hat"},
+                                                                               {"title":"not this", "name":"rat3", "stay" : "true"}]},
+
+                                                                               "rat3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"hat"},
+                                                                               {"title":"not this", "name":"rat", "stay" : "true"}]},
+                                                                        
+                                                                        
+                                                                               "hat" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"boy"},
+                                                                               {"title":"not this", "name":"hat1", "stay" : "true"}]},
+
+                                                                               "hat1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"boy"},
+                                                                               {"title":"not this", "name":"hat2", "stay" : "true"}]},
+
+                                                                               "hat2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"boy"},
+                                                                               {"title":"not this", "name":"hat3", "stay" : "true"}]},
+
+                                                                               "hat3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"boy"},
+                                                                               {"title":"not this", "name":"hat", "stay" : "true"}]},
+                                                                        
+                                                                        
+                                                                               "boy" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"gil"},
+                                                                               {"title":"not this", "name":"boy1", "stay" : "true"}]},
+
+                                                                               "boy1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"gil"},
+                                                                               {"title":"not this", "name":"boy2", "stay" : "true"}]},
+
+                                                                               "boy2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"gil"},
+                                                                               {"title":"not this", "name":"boy3", "stay" : "true"}]},
+
+                                                                               "boy3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"gil"},
+                                                                               {"title":"not this", "name":"boy", "stay" : "true"}]},
+                                                                        
+                                                                        
+                                                                               "gil" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"bad"},
+                                                                               {"title":"not this", "name":"gil1", "stay" : "true"}]},
+
+                                                                               "gil1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"bad"},
+                                                                               {"title":"not this", "name":"gil2", "stay" : "true"}]},
+
+                                                                               "gil2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"bad"},
+                                                                               {"title":"not this", "name":"gil3", "stay" : "true"}]},
+
+                                                                               "gil3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"bad"},
+                                                                               {"title":"not this", "name":"gil", "stay" : "true"}]},
+                                                                        
+                                                                        
+                                                                               "bad" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"sad"},
+                                                                               {"title":"not this", "name":"bad1", "stay" : "true"}]},
+
+                                                                               "bad1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"sad"},
+                                                                               {"title":"not this", "name":"bad2", "stay" : "true"}]},
+
+                                                                               "bad2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"sad"},
+                                                                               {"title":"not this", "name":"bad3", "stay" : "true"}]},
+
+                                                                               "bad3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"sad"},
+                                                                               {"title":"not this", "name":"bad", "stay" : "true"}]},
+                                                                        
+                                                                        
+                                                                               "sad" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"tad"},
+                                                                               {"title":"not this", "name":"sad1", "stay" : "true"}]},
+
+                                                                               "sad1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"tad"},
+                                                                               {"title":"not this", "name":"sad2", "stay" : "true"}]},
+
+                                                                               "sad2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"tad"},
+                                                                               {"title":"not this", "name":"sad3", "stay" : "true"}]},
+
+                                                                               "sad3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"tad"},
+                                                                               {"title":"not this", "name":"sad", "stay" : "true"}]},
+                                                                        
+                                                                        
+                                                                               "tad" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"gad"},
+                                                                               {"title":"not this", "name":"tad1", "stay" : "true"}]},
+
+                                                                               "tad1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"gad"},
+                                                                               {"title":"not this", "name":"tad2", "stay" : "true"}]},
+
+                                                                               "tad2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"gad"},
+                                                                               {"title":"not this", "name":"tad3", "stay" : "true"}]},
+
+                                                                               "tad3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"gad"},
+                                                                               {"title":"not this", "name":"tad", "stay" : "true"}]},
+                                                                        
+                                                                        
+                                                                               "gad" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"lad"},
+                                                                               {"title":"not this", "name":"gad1", "stay" : "true"}]},
+
+                                                                               "gad1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"lad"},
+                                                                               {"title":"not this", "name":"gad2", "stay" : "true"}]},
+
+                                                                               "gad2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"lad"},
+                                                                               {"title":"not this", "name":"gad3", "stay" : "true"}]},
+
+                                                                               "gad3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"lad"},
+                                                                               {"title":"not this", "name":"gad", "stay" : "true"}]},
+                                                                        
+                                                                        
+                                                                               "lad" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"had"},
+                                                                               {"title":"not this", "name":"lad1", "stay" : "true"}]},
+
+                                                                               "lad1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"had"},
+                                                                               {"title":"not this", "name":"lad2", "stay" : "true"}]},
+
+                                                                               "lad2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"had"},
+                                                                               {"title":"not this", "name":"lad3", "stay" : "true"}]},
+
+                                                                               "lad3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"had"},
+                                                                               {"title":"not this", "name":"lad", "stay" : "true"}]},
+                                                                        
+                                                                        
+                                                                               "had" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"zxz"},
+                                                                               {"title":"not this", "name":"had1", "stay" : "true"}]},
+
+                                                                               "had1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"zxz"},
+                                                                               {"title":"not this", "name":"had2", "stay" : "true"}]},
+
+                                                                               "had2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"zxz"},
+                                                                               {"title":"not this", "name":"had3", "stay" : "true"}]},
+
+                                                                               "had3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"zxz"},
+                                                                               {"title":"not this", "name":"had", "stay" : "true"}]},
+                                                                        
+                                                                        
+                                                                               "zxz" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"cvc"},
+                                                                               {"title":"not this", "name":"dod1", "stay" : "true"}]},
+
+                                                                               "zxz1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"cvc"},
+                                                                               {"title":"not this", "name":"dod2", "stay" : "true"}]},
+
+                                                                               "zxz2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"cvc"},
+                                                                               {"title":"not this", "name":"dod3", "stay" : "true"}]},
+
+                                                                               "zxz3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"cvc"},
+                                                                               {"title":"not this", "name":"dod", "stay" : "true"}]},
+
+                                                                        
+                                                                        
+                                                                               "cvc" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"bnb"},
+                                                                               {"title":"not this", "name":"cvc1", "stay" : "true"}]},
+
+                                                                               "cvc1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"bnb"},
+                                                                               {"title":"not this", "name":"cvc2", "stay" : "true"}]},
+
+                                                                               "cvc2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"bnb"},
+                                                                               {"title":"not this", "name":"cvc3", "stay" : "true"}]},
+
+                                                                               "cvc3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"bnb"},
+                                                                               {"title":"not this", "name":"cvc", "stay" : "true"}]},
+
+                                                                        
+                                                                        
+                                                                               "bnb" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"opo"},
+                                                                               {"title":"not this", "name":"dod1", "stay" : "true"}]},
+
+                                                                               "bnb1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"opo"},
+                                                                               {"title":"not this", "name":"dod2", "stay" : "true"}]},
+
+                                                                               "bnb2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"opo"},
+                                                                               {"title":"not this", "name":"dod3", "stay" : "true"}]},
+
+                                                                               "bnb3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"opo"},
+                                                                               {"title":"not this", "name":"dod", "stay" : "true"}]},
+
+                                                                        
+                                                                        
+                                                                               "opo" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"wei"},
+                                                                               {"title":"not this", "name":"opo1", "stay" : "true"}]},
+
+                                                                               "opo1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"wei"},
+                                                                               {"title":"not this", "name":"opo2", "stay" : "true"}]},
+
+                                                                               "opo2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"wei"},
+                                                                               {"title":"not this", "name":"opo3", "stay" : "true"}]},
+
+                                                                               "opo3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"wei"},
+                                                                               {"title":"not this", "name":"opo", "stay" : "true"}]},
+
+                                                                        
+                                                                        
+                                                                               "wei" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"wew"},
+                                                                               {"title":"not this", "name":"wei1", "stay" : "true"}]},
+
+                                                                               "wei1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"wew"},
+                                                                               {"title":"not this", "name":"wei2", "stay" : "true"}]},
+
+                                                                               "wei2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"wew"},
+                                                                               {"title":"not this", "name":"wei3", "stay" : "true"}]},
+
+                                                                               "wei3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"wew"},
+                                                                               {"title":"not this", "name":"wei", "stay" : "true"}]},
+
+                                                                        
+                                                                        
+                                                                               "wew" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"tot"},
+                                                                               {"title":"not this", "name":"wew1", "stay" : "true"}]},
+
+                                                                               "wew1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"tot"},
+                                                                               {"title":"not this", "name":"wew2", "stay" : "true"}]},
+
+                                                                               "wew2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"tot"},
+                                                                               {"title":"not this", "name":"wew3", "stay" : "true"}]},
+
+                                                                               "wew3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"tot"},
+                                                                               {"title":"not this", "name":"wew", "stay" : "true"}]},
+
+                                                                        
+                                                                        
+                                                                               "tot" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"pui"},
+                                                                               {"title":"not this", "name":"tot1", "stay" : "true"}]},
+
+                                                                               "tot1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"pui"},
+                                                                               {"title":"not this", "name":"tot2", "stay" : "true"}]},
+
+                                                                               "tot3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"pui"},
+                                                                               {"title":"not this", "name":"tot3", "stay" : "true"}]},
+
+                                                                               "tot4" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"pui"},
+                                                                               {"title":"not this", "name":"tot", "stay" : "true"}]},
+
+                                                                        
+                                                                        
+                                                                               "pui" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"pus"},
+                                                                               {"title":"not this", "name":"pui1", "stay" : "true"}]},
+
+                                                                               "pui1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"pus"},
+                                                                               {"title":"not this", "name":"pui2", "stay" : "true"}]},
+
+                                                                               "pui2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"pus"},
+                                                                               {"title":"not this", "name":"pui3", "stay" : "true"}]},
+
+                                                                               "pui3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"pus"},
+                                                                               {"title":"not this", "name":"pui", "stay" : "true"}]},
+
+                                                                        
+                                                                        
+                                                                               "pus" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"sus"},
+                                                                               {"title":"not this", "name":"pus1", "stay" : "true"}]},
+
+                                                                               "pus1" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"sus"},
+                                                                               {"title":"not this", "name":"pus2", "stay" : "true"}]},
+
+                                                                               "pus2" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"sus"},
+                                                                               {"title":"not this", "name":"pus3", "stay" : "true"}]},
+
+                                                                               "pus3" : {"value": "value", 
+                                                                               "children": [{"title":"tweet this", "name":"sus"},
+                                                                               {"title":"not this", "name":"pus", "stay" : "true"}]},
+
+                                                                        
+                                                                        
+                                                                               "sus" : {"value": "@BillGates : Mann ki Baat has catalyzed community led action on sanitation, health, women’s economic empowerment and other issues linked to the Sustainable Development Goals. Congratulations @narendramodi on the 100th episode.", 
+                                                                               "children": [{"title":"tweet this", "name":"dog"},
+                                                                               {"title":"not this", "name":"sus1", "stay" : "true"}]},
+
+                                                                               "sus1" : {"value": "@BillGates : Aside from water, there’s no material on Earth we use more than concrete. That’s why it’s so important to figure out how to decarbonize it.", 
+                                                                               "children": [{"title":"tweet this", "name":"dog"},
+                                                                               {"title":"not this", "name":"sus2", "stay" : "true"}]},
+
+                                                                               "sus2" : {"value": "@BillGates : Building a clean energy future will require a lot of new wires—the U.S. will need to grow the grid by almost two-thirds its current size in the next decade.", 
+                                                                               "children": [{"title":"tweet this", "name":"dog"},
+                                                                               {"title":"not this", "name":"sus3", "stay" : "true"}]},
+
+                                                                               "sus3" : {"value": "@BillGates : Eradicating smallpox was hard, but it was also one of the most important achievements in human history. That makes it worth celebrating—and learning from.", 
+                                                                               "children": [{"title":"tweet this", "name":"dog"},
+                                                                               {"title":"not this", "name":"sus", "stay" : "true"}]}
+
+                                                                        
+                                                                        
+
 
 
                                                                                
