@@ -39,11 +39,14 @@ export default function page() {
   if (data) {
     return (
       <div>
-        {progress.map((card) => (
-          <div className={styles.card}>
-            <h1>{card.value}</h1>
-          </div>
-        ))}
+        <div className = {styles.progress}>
+          {progress.map((card) => (
+            <div className={styles.card}>
+              <h1 className={styles.text}>{card.value}</h1>
+            </div>
+          ))}
+        </div>
+        
         {data.children.map((choice) => (
           <button
             className={styles.button54}

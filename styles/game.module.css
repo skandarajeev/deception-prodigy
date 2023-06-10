@@ -1,18 +1,25 @@
-.card{
-    
-    background-color: rgba(0, 0, 0, 0);
+.card {
 
-    /* Add border */
-    border: 1px solid #bacdd8;
-  
-    /* Add space between the border and the content */
-    padding: 8px;
-    align-items: center;
-    border-radius: 1px;
-    margin-bottom: 10px;
+  background: black;
+  opacity: 50%;
+  /* Add border */
+  border: 1px solid #0f1011;
+
+  /* Add space between the border and the content */
+  padding: 8px;
+  align-items: center;
+  border-radius: 1.5rem;
+
+  margin-top: 1.5rem;
 
 }
 
+.text {
+  font-size: 1.5rem;
+  font-family: 'Poppins', sans-serif;
+  border-radius: 3rem;
+  padding: 2rem;
+}
 
 
 .button54 {
@@ -42,4 +49,9 @@
   .button54 {
     padding: 0.25em 0.75em;
   }
+}
+
+.progress {
+  padding: 1.5rem;
+  border-radius: 30px;
 }
