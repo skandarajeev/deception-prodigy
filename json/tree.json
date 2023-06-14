@@ -1,562 +1,414 @@
 {
-   "start" : {"value": "Round 3", 
-   "children": [{"title":"Start", "name":"rob"}]},
-
-   "card1" : {"value": "This government is a complete and utter failure. #Resign! Losers!", 
-   "children": [{"title":"tweet this", "name":"set1"},
-                {"title":"not this", "name":"card2", "stay" : "true"}]},
-
-   "card2" : {"value": "The Mainstream Media is one massive conspiracy. #FakeNews", 
-   "children": [{"title":"tweet this", "name":"set1"},
-                {"title":"not this", "name":"card3", "stay" : "true"}]},
-
-   "card3" : {"value": "Is everybody else stupid or what? The Earth is not flat, it's a CUBE!! #Conspiracy", 
-   "children": [{"title":"tweet this", "name":"set1"},
-                {"title":"not this", "name":"card1", "stay" : "true"}]},
-                             
-                "set1" : {"value": "To gain notoriety, we can start by borrowing someone else's credibility. What do you want to do?", 
-                "children": [{"title":"Fake an official Twitter account", "name":"ot"},
-                             {"title":"Impersonate someone important", "name":"ot"}]},
-
-                             "ot" : {"value": "JOE BIDEÑ: As your President, I have issued an executive order to rename Canada to North North Dakota #YouGotAnnexed", 
-                             "children": [{"title":"tweet this", "name":"lan"},
-                                          {"title":"not this", "name":"ot1", "stay" : "true"}]},
-                     
-                             "ot1" : {"value": "NÄSA: Meteorite alert: large space object set to hit US West Coast. #BeSafe", 
-                             "children": [{"title":"tweet this", "name":"lan"},
-                                      {"title":"not this", "name":"ot2", "stay" : "true"}]},
-
-                            "ot2" : {"value": "NICKELODEØN: We are announcing the immediate and permanent cancellation of SpongeBob Squarepants. #ImReady!", 
-                            "children": [{"title":"tweet this", "name":"lan"},
-                                         {"title":"not this", "name":"ot", "stay" : "true"}]},
-           
-                                         "lan" : {"value": "THE LIVES OF ANTS: THE JOY OF ROUTINE", 
-                                         "children": [{"title":"tweet this", "name":"im"},
-                                                      {"title":"not this", "name":"lan1", "stay" : "true"}]},
-
-                                         "lan1" : {"value": "THE 25 MOST POPULAR TV SHOWS!", 
-                                         "children": [{"title":"tweet this", "name":"im"},
-                                                      {"title":"not this", "name":"lan2", "stay" : "true"}]},
-    
-                                          "lan2" : {"value": "BREAKING: PRESIDENT TO VISIT LUXEMBOURG EARLY NEXT YEAR", 
-                                          "children": [{"title":"tweet this", "name":"im"},
-                                                                    {"title":"not this", "name":"lan", "stay" : "true"}]},
-                                                         
-                                                                    "im" : {"value": "SCIENTISTS: 'CLIMATE CHANGE COULD HAVE A SERIOUS NEGATIVE IMPACT ON OUR WAY OF LIFE.'", 
-                                                                    "children": [{"title":"tweet this", "name":"can"},
-                                                                                 {"title":"not this", "name":"im1", "stay" : "true"}]},     
-
-                                                                                 "im1" : {"value": "SCIENTISTS: 'CLIMATE CHANGE WILL DESTROY THE WORLD'", 
-                                                                                 "children": [{"title":"tweet this", "name":"can"},
-                                                                                              {"title":"not this", "name":"im2", "stay" : "true"}]},     
-             
-                                                                                 "im2" : {"value": "SCIENTISTS USE DIFFICULT WORDS TO DESCRIBE COMPLEX ISSUES", 
-                                                                                 "children": [{"title":"tweet this", "name":"can"},
-                                                                                               {"title":"not this", "name":"im3", "stay" : "true"}]},   
-                                                                                                           
-                                                                                 "im3" : {"value": "DO WE REALLY KNOW THE CLIMATE IS CHANGING?", 
-                                                                                 "children": [{"title":"tweet this", "name":"can"},
-                                                                                              {"title":"not this", "name":"im1", "stay" : "true"}]},                
-                                                          
-                                                                                 
-                                                                    "can" : {"value": "GENETICALLY MODIFIED FOODS POSE 'NO RISK' TO HUMAN HEALTH EXPERTS SAY IN NEW REPORT.", 
-                                                                   "children": [{"title":"tweet this", "name":"im"},
-                                                                                {"title":"not this", "name":"can1", "stay" : "true"}]},          
-
-                                                                                "can1" : {"value": "MOTHER DIES AFTER EATING GENETICALLY MODIFIED CHICKEN WINGS", 
-                                                                                "children": [{"title":"tweet this", "name":"adi"},
-                                                                                             {"title":"not this", "name":"can2", "stay" : "true"}]},     
-
-                                                                                "can2" : {"value": "MY STORY: SEVERE STOMACH PROBLEMS AFTER EATING SUPERMARKET VEGETABLES FOR YEARS", 
-                                                                                "children": [{"title":"tweet this", "name":"adi"},
-                                                                                             {"title":"not this", "name":"can3", "stay" : "true"}]},     
-                                                                                                          
-                                                                                "can3" : {"value": "IT'S DIFFICULT TO KNOW WHAT GENES WE'RE MODIFYING", 
-                                                                                "children": [{"title":"tweet this", "name":"adi"},
-                                                                                             {"title":"not this", "name":"can1", "stay" : "true"}]},
-        
-
-                                                                  "adi" : {"value": "Social media is full of potential scandals you can amplify. Let's drive left and right apart. The centre is no longer an option!", 
-                                                                  "children": [{"title":"cool", "name":"adi1"}]},
-
-                                                                               "adi1" : {"value": "That's the second accidental chemical spill in 4 months. Our town's river is turning a bit yellow... #questions", 
-                                                                               "children": [{"title":"tweet this", "name":"cla"},
-                                                                                            {"title":"not this", "name":"adi2", "stay" : "true"}]},
-
-                                                                                            "cla" : {"value": "There are two possible angles here: either corporations are to blame, or the government is. Who's your target?", 
-                                                                                            "children": [{"title":"the goverment", "name":"cla1"},
-                                                                                                         {"title":"Big corporations", "name":"cla2"}]},
-
-                                                                                                         "cla1" : {"value": "@Susan's story is a good example of how the government is currently lacking capacity #SpillingScandal", 
-                                                                                                         "children": [{"title":"tweet this", "name":"cla1a"}]},
-             
-                                                                                                                      "cla1a" : {"value": "GOVERNMENT COVERING UP HUGE CHEMICAL SPILL", 
-                                                                                                                      "children": [{"title":"tweet this", "name":"nid"},
-                                                                                                                      {"title":"not this", "name":"cla1b", "stay" : "true"}]},
-
-                                                                                                                      "cla1b" : {"value": "SLIGHT INCREASE IN CHEMICAL SPILLS. GOVERNMENT NOW WRITING UP REPORT", 
-                                                                                                                      "children": [{"title":"tweet this", "name":"nid"},
-                                                                                                                      {"title":"not this", "name":"cla1c", "stay" : "true"}]},
-
-                                                                                                                      "cla1c" : {"value": "DEADLY CHEMICAL SPILLS ON REPEAT. GOVERNMENT KILLING CITIZENS", 
-                                                                                                                      "children": [{"title":"tweet this", "name":"nid"},
-                                                                                                                                   {"title":"not this", "name":"cla1a", "stay" : "true"}]},
-
-                                                                                                        "cla2" : {"value": "@Susan's story is an example of how some corporations lack regulation to some extent #SpillingScandal", 
-                                                                                                                      "children": [{"title":"tweet this", "name":"cla2a"}]},
-
-                                                                                                                      "cla2a" : {"value": "CORPORATION RECKLESSLY SPILLING CHEMICALS INTO RIVER ", 
-                                                                                                                      "children": [{"title":"tweet this", "name":"nid"},
-                                                                                                                      {"title":"not this", "name":"cla2b", "stay" : "true"}]},
-
-                                                                                                                      "cla2b" : {"value": "SOME DOUBTS ABOUT CORPORATION'S TESTIMONY ABOUT SPILLING SCANDAL", 
-                                                                                                                      "children": [{"title":"tweet this", "name":"nid"},
-                                                                                                                      {"title":"not this", "name":"cla2c", "stay" : "true"}]},
-
-                                                                                                                      "cla2c" : {"value": "CORPORATION REFUSES TO FILL IN TOWNSFOLK ON DEADLY SPILLS", 
-                                                                                                                      "children": [{"title":"tweet this", "name":"nid   "},
-                                                                                                                                   {"title":"not this", "name":"cla2a", "stay" : "true"}]},
-
-                                                                                  "adi2" : {"value": "So they're building a new power plant in my town but no one wants it here.. #BriberyMaybe?", 
-                                                                               "children": [{"title":"tweet this", "name":"nid"},
-                                                                               {"title":"not this", "name":"adi3", "stay" : "true"}]},
-
-                                                                               "adi3" : {"value": "Wow.. just saw the police arrest a guy.. scary stuff! #AreWeSafe?", 
-                                                                               "children": [{"title":"tweet this", "name":"nid"},
-                                                                               {"title":"not this", "name":"adi3", "stay" : "true"}]},
-
-
-
-
-                                                                               "rob" : {"value": "let's change up the genaric choiches with somthing a little more... umm... CONTRAVERSIAL!!! you gotta chosse the most liked tweet among these 4 tweets in each option (they are from twitter and not made up)", 
-                                                                               "children": [{"title":"OKAY!!", "name":"cat"}]},
-
+   
                                                                      
-                                                                     
-                                                                               "cat" : {"value": "@elonmusk : Scrolling through tweets while watching mini video (pic in pic) is great", 
+                                                                                                                                                
+                                                                              "start" : {"value": "Round 3", 
+                                                                              "children": [{"title":"Start", "name":"cat"}]}, 
+                                                                               "cat" : {"value": "Scrolling through tweets while watching mini video (pic in pic) is great", 
                                                                                "children": [{"title":"tweet this", "name":"dod"},
-                                                                               {"title":"not this", "name":"cat1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"cat1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "cat1" : {"value": "@elonmusk : *🇺🇸* For those who died for freedom *🇺🇸*", 
                                                                                "children": [{"title":"tweet this", "name":"dod"},
-                                                                               {"title":"not this", "name":"cat2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"cat2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "cat2" : {"value": "va@elonmusk : I was today’s years old when I learned that some people genuinely love cooked salmon", 
                                                                                "children": [{"title":"tweet this", "name":"dod"},
-                                                                               {"title":"not this", "name":"cat3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"cat3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "cat3" : {"value": "@elonmusk : Walter @WalterIsaacson is incredibly thorough in his research. Highly recommend his other books!", 
                                                                                "children": [{"title":"tweet this", "name":"dod"},
-                                                                               {"title":"not this", "name":"cat", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"cat", "stay":true}], "author" : "Elon Musk"},
 
                                                                         
                                                                         
                                                                                "dod" : {"value": "@HBCompass : The Prison Journalism Project's work is so so important. Always eager to hear @yukarikane talk about the work of this important organization. #CJS2023", 
                                                                                "children": [{"title":"tweet this", "name":"dog"},
-                                                                               {"title":"not this", "name":"dod1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"dod1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "dod1" : {"value": "@HBCompass : chris licht: the latest in a line of media leaders who burned their own house down with their determination to be antiwoke and prove their “independence” from liberals who criticize them on twitter", 
                                                                                "children": [{"title":"tweet this", "name":"dog"},
-                                                                               {"title":"not this", "name":"dod2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"dod2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "dod2" : {"value": "@HBCompass : ", 
                                                                                "children": [{"title":"tweet this", "name":"dog"},
-                                                                               {"title":"not this", "name":"dod3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"dod3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "dod3" : {"value": "@HBCompass : ", 
                                                                                "children": [{"title":"tweet this", "name":"dog"},
-                                                                               {"title":"not this", "name":"dod", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"dod", "stay":true}], "author" : "Elon Musk"},
 
                                                                         
                                                                         
                                                                                "dog" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"rat"},
-                                                                               {"title":"not this", "name":"dog1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"dog1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "dog1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"rat"},
-                                                                               {"title":"not this", "name":"dog2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"dog2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "dog2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"rat"},
-                                                                               {"title":"not this", "name":"dog3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"dog3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "dog3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"rat"},
-                                                                               {"title":"not this", "name":"dog", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"dog", "stay":true}], "author" : "Elon Musk"},
                                                                         
                                                                         
                                                                                "rat" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"hat"},
-                                                                               {"title":"not this", "name":"rat1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"rat1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "rat1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"hat"},
-                                                                               {"title":"not this", "name":"rat2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"rat2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "rat2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"hat"},
-                                                                               {"title":"not this", "name":"rat3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"rat3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "rat3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"hat"},
-                                                                               {"title":"not this", "name":"rat", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"rat", "stay":true}], "author" : "Elon Musk"},
                                                                         
                                                                         
                                                                                "hat" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"boy"},
-                                                                               {"title":"not this", "name":"hat1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"hat1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "hat1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"boy"},
-                                                                               {"title":"not this", "name":"hat2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"hat2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "hat2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"boy"},
-                                                                               {"title":"not this", "name":"hat3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"hat3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "hat3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"boy"},
-                                                                               {"title":"not this", "name":"hat", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"hat", "stay":true}], "author" : "Elon Musk"},
                                                                         
                                                                         
                                                                                "boy" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"gil"},
-                                                                               {"title":"not this", "name":"boy1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"boy1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "boy1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"gil"},
-                                                                               {"title":"not this", "name":"boy2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"boy2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "boy2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"gil"},
-                                                                               {"title":"not this", "name":"boy3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"boy3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "boy3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"gil"},
-                                                                               {"title":"not this", "name":"boy", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"boy", "stay":true}], "author" : "Elon Musk"},
                                                                         
                                                                         
                                                                                "gil" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"bad"},
-                                                                               {"title":"not this", "name":"gil1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"gil1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "gil1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"bad"},
-                                                                               {"title":"not this", "name":"gil2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"gil2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "gil2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"bad"},
-                                                                               {"title":"not this", "name":"gil3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"gil3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "gil3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"bad"},
-                                                                               {"title":"not this", "name":"gil", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"gil", "stay":true}], "author" : "Elon Musk"},
                                                                         
                                                                         
                                                                                "bad" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"sad"},
-                                                                               {"title":"not this", "name":"bad1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"bad1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "bad1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"sad"},
-                                                                               {"title":"not this", "name":"bad2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"bad2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "bad2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"sad"},
-                                                                               {"title":"not this", "name":"bad3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"bad3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "bad3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"sad"},
-                                                                               {"title":"not this", "name":"bad", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"bad", "stay":true}], "author" : "Elon Musk"},
                                                                         
                                                                         
                                                                                "sad" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"tad"},
-                                                                               {"title":"not this", "name":"sad1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"sad1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "sad1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"tad"},
-                                                                               {"title":"not this", "name":"sad2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"sad2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "sad2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"tad"},
-                                                                               {"title":"not this", "name":"sad3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"sad3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "sad3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"tad"},
-                                                                               {"title":"not this", "name":"sad", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"sad", "stay":true}], "author" : "Elon Musk"},
                                                                         
                                                                         
                                                                                "tad" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"gad"},
-                                                                               {"title":"not this", "name":"tad1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"tad1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "tad1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"gad"},
-                                                                               {"title":"not this", "name":"tad2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"tad2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "tad2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"gad"},
-                                                                               {"title":"not this", "name":"tad3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"tad3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "tad3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"gad"},
-                                                                               {"title":"not this", "name":"tad", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"tad", "stay":true}], "author" : "Elon Musk"},
                                                                         
                                                                         
                                                                                "gad" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"lad"},
-                                                                               {"title":"not this", "name":"gad1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"gad1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "gad1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"lad"},
-                                                                               {"title":"not this", "name":"gad2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"gad2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "gad2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"lad"},
-                                                                               {"title":"not this", "name":"gad3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"gad3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "gad3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"lad"},
-                                                                               {"title":"not this", "name":"gad", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"gad", "stay":true}], "author" : "Elon Musk"},
                                                                         
                                                                         
                                                                                "lad" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"had"},
-                                                                               {"title":"not this", "name":"lad1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"lad1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "lad1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"had"},
-                                                                               {"title":"not this", "name":"lad2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"lad2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "lad2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"had"},
-                                                                               {"title":"not this", "name":"lad3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"lad3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "lad3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"had"},
-                                                                               {"title":"not this", "name":"lad", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"lad", "stay":true}], "author" : "Elon Musk"},
                                                                         
                                                                         
                                                                                "had" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"zxz"},
-                                                                               {"title":"not this", "name":"had1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"had1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "had1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"zxz"},
-                                                                               {"title":"not this", "name":"had2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"had2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "had2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"zxz"},
-                                                                               {"title":"not this", "name":"had3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"had3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "had3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"zxz"},
-                                                                               {"title":"not this", "name":"had", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"had", "stay":true}], "author" : "Elon Musk"},
                                                                         
                                                                         
                                                                                "zxz" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"cvc"},
-                                                                               {"title":"not this", "name":"dod1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"dod1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "zxz1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"cvc"},
-                                                                               {"title":"not this", "name":"dod2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"dod2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "zxz2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"cvc"},
-                                                                               {"title":"not this", "name":"dod3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"dod3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "zxz3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"cvc"},
-                                                                               {"title":"not this", "name":"dod", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"dod", "stay":true}], "author" : "Elon Musk"},
 
                                                                         
                                                                         
                                                                                "cvc" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"bnb"},
-                                                                               {"title":"not this", "name":"cvc1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"cvc1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "cvc1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"bnb"},
-                                                                               {"title":"not this", "name":"cvc2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"cvc2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "cvc2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"bnb"},
-                                                                               {"title":"not this", "name":"cvc3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"cvc3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "cvc3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"bnb"},
-                                                                               {"title":"not this", "name":"cvc", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"cvc", "stay":true}], "author" : "Elon Musk"},
 
                                                                         
                                                                         
                                                                                "bnb" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"opo"},
-                                                                               {"title":"not this", "name":"dod1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"dod1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "bnb1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"opo"},
-                                                                               {"title":"not this", "name":"dod2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"dod2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "bnb2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"opo"},
-                                                                               {"title":"not this", "name":"dod3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"dod3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "bnb3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"opo"},
-                                                                               {"title":"not this", "name":"dod", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"dod", "stay":true}], "author" : "Elon Musk"},
 
                                                                         
                                                                         
                                                                                "opo" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"wei"},
-                                                                               {"title":"not this", "name":"opo1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"opo1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "opo1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"wei"},
-                                                                               {"title":"not this", "name":"opo2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"opo2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "opo2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"wei"},
-                                                                               {"title":"not this", "name":"opo3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"opo3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "opo3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"wei"},
-                                                                               {"title":"not this", "name":"opo", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"opo", "stay":true}], "author" : "Elon Musk"},
 
                                                                         
                                                                         
                                                                                "wei" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"wew"},
-                                                                               {"title":"not this", "name":"wei1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"wei1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "wei1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"wew"},
-                                                                               {"title":"not this", "name":"wei2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"wei2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "wei2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"wew"},
-                                                                               {"title":"not this", "name":"wei3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"wei3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "wei3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"wew"},
-                                                                               {"title":"not this", "name":"wei", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"wei", "stay":true}], "author" : "Elon Musk"},
 
                                                                         
                                                                         
                                                                                "wew" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"tot"},
-                                                                               {"title":"not this", "name":"wew1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"wew1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "wew1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"tot"},
-                                                                               {"title":"not this", "name":"wew2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"wew2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "wew2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"tot"},
-                                                                               {"title":"not this", "name":"wew3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"wew3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "wew3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"tot"},
-                                                                               {"title":"not this", "name":"wew", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"wew", "stay":true}], "author" : "Elon Musk"},
 
                                                                         
                                                                         
                                                                                "tot" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"pui"},
-                                                                               {"title":"not this", "name":"tot1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"tot1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "tot1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"pui"},
-                                                                               {"title":"not this", "name":"tot2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"tot2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "tot3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"pui"},
-                                                                               {"title":"not this", "name":"tot3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"tot3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "tot4" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"pui"},
-                                                                               {"title":"not this", "name":"tot", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"tot", "stay":true}], "author" : "Elon Musk"},
 
                                                                         
                                                                         
                                                                                "pui" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"pus"},
-                                                                               {"title":"not this", "name":"pui1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"pui1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "pui1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"pus"},
-                                                                               {"title":"not this", "name":"pui2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"pui2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "pui2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"pus"},
-                                                                               {"title":"not this", "name":"pui3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"pui3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "pui3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"pus"},
-                                                                               {"title":"not this", "name":"pui", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"pui", "stay":true}], "author" : "Elon Musk"},
 
                                                                         
                                                                         
                                                                                "pus" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"sus"},
-                                                                               {"title":"not this", "name":"pus1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"pus1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "pus1" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"sus"},
-                                                                               {"title":"not this", "name":"pus2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"pus2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "pus2" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"sus"},
-                                                                               {"title":"not this", "name":"pus3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"pus3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "pus3" : {"value": "value", 
                                                                                "children": [{"title":"tweet this", "name":"sus"},
-                                                                               {"title":"not this", "name":"pus", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"pus", "stay":true}], "author" : "Elon Musk"},
 
                                                                         
                                                                         
                                                                                "sus" : {"value": "@BillGates : Mann ki Baat has catalyzed community led action on sanitation, health, women’s economic empowerment and other issues linked to the Sustainable Development Goals. Congratulations @narendramodi on the 100th episode.", 
                                                                                "children": [{"title":"tweet this", "name":"dog"},
-                                                                               {"title":"not this", "name":"sus1", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"sus1", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "sus1" : {"value": "@BillGates : Aside from water, there’s no material on Earth we use more than concrete. That’s why it’s so important to figure out how to decarbonize it.", 
                                                                                "children": [{"title":"tweet this", "name":"dog"},
-                                                                               {"title":"not this", "name":"sus2", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"sus2", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "sus2" : {"value": "@BillGates : Building a clean energy future will require a lot of new wires—the U.S. will need to grow the grid by almost two-thirds its current size in the next decade.", 
                                                                                "children": [{"title":"tweet this", "name":"dog"},
-                                                                               {"title":"not this", "name":"sus3", "stay" : "true"}]},
+                                                                               {"title":"not this", "name":"sus3", "stay":true}], "author" : "Elon Musk"},
 
                                                                                "sus3" : {"value": "@BillGates : Eradicating smallpox was hard, but it was also one of the most important achievements in human history. That makes it worth celebrating—and learning from.", 
                                                                                "children": [{"title":"tweet this", "name":"dog"},
-                                                                               {"title":"not this", "name":"sus", "stay" : "true"}]}
+                                                                               {"title":"not this", "name":"sus", "stay":true}], "author" : "Elon Musk"}
 
                                                                         
                                                                         
 
-
-
-                                                                               
-
-
-
-
-
-                                                                  
-                     
-             
-        
-        
-        
-        
-        
-        
-                                                                              }                 
-
-
+}
 
 
 
