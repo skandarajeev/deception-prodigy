@@ -6,7 +6,7 @@
   border: 1px solid #0f1011;
 
   /* Add space between the border and the content */
-  padding: 8px;
+  padding: 2rem;
   align-items: center;
   border-radius: 1.5rem;
 
@@ -17,6 +17,7 @@
 .text {
   font-size: 1.5rem;
   font-family: 'Poppins', sans-serif;
+  font-weight: 600;
   border-radius: 3rem;
   padding: 2rem;
 }
@@ -54,4 +55,9 @@
 .progress {
   padding: 1.5rem;
   border-radius: 30px;
+}
+
+.statsSection {
+  display: flex;
+  justify-content: space-around;
 }
