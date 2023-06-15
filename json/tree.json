@@ -5,98 +5,98 @@
                                                                               "start" : {"value": "Round 3", 
                                                                               "children": [{"title":"Start", "name":"cat"}]}, 
                                                                                "cat" : {"value": "Scrolling through tweets while watching mini video (pic in pic) is great", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"dod"},
+                                                                               "children": [{"title":"tweet this", "likes" : 754000,  "name":"dod"},
                                                                                {"title":"not this", "name":"cat1", "stay":true}], "author" : "Elon Musk @elonmusk"},
 
                                                                                "cat1" : {"value": "*🇺🇸* For those who died for freedom *🇺🇸*", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"dod"},
+                                                                               "children": [{"title":"tweet this", "likes" : 3571000,  "name":"dod"},
                                                                                {"title":"not this", "name":"cat2", "stay":true}], "author" : "Elon Musk", "tag" : "elonmusk"},
 
                                                                                "cat2" : {"value": "I was today’s years old when I learned that some people genuinely love cooked salmon", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"dod"},
+                                                                               "children": [{"title":"tweet this", "likes" : 1272000,  "name":"dod"},
                                                                                {"title":"not this", "name":"cat3", "stay":true}], "author" : "Elon Musk @elonmusk"},
 
                                                                                "cat3" : {"value": "Walter @WalterIsaacson is incredibly thorough in his research. Highly recommend his other books!", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"dod"},   
+                                                                               "children": [{"title":"tweet this", "likes" : 20000,  "name":"dod"},   
                                                                                {"title":"not this", "name":"cat", "stay":true}], "author" : "Elon Musk @elonmusk"},
 
                                                                         
                                                                         
                                                                                "dod" : {"value": "The Prison Journalism Project's work is so so important. Always eager to hear @yukarikane talk about the work of this important organization. #CJS2023", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"dog"},
+                                                                               "children": [{"title":"tweet this", "likes" : 27,  "name":"dog"},
                                                                                {"title":"not this", "name":"dod1", "stay":true}], "author" : "Heather Bryant @HBCompass"},
 
                                                                                "dod1" : {"value": "chris licht: the latest in a line of media leaders who burned their own house down with their determination to be antiwoke and prove their “independence” from liberals who criticize them on twitter", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"dog"},
+                                                                               "children": [{"title":"tweet this", "likes" : 1224,  "name":"dog"},
                                                                                {"title":"not this", "name":"dod2", "stay":true}], "author" : "Heather Bryant @HBCompass"},
 
-                                                                               "dod2" : {"value": "", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"dog"},
+                                                                               "dod2" : {"value": "you wouldn’t have to spend all of this time fact-checking - and thus repeating to your audience - all of the lies if you hadn’t just broadcast them to millions of people for an hour. just a thought", 
+                                                                               "children": [{"title":"tweet this", "likes" : 2631,  "name":"dog"},
                                                                                {"title":"not this", "name":"dod3", "stay":true}], "author" : "Heather Bryant @HBCompass"},
 
-                                                                               "dod3" : {"value": "@HBCompass : ", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"dog"},
+                                                                               "dod3" : {"value": "CNN is dead to democracy.", 
+                                                                               "children": [{"title":"tweet this", "likes" : 2697,  "name":"dog"},
                                                                                {"title":"not this", "name":"dod", "stay":true}], "author" : "Heather Bryant @HBCompass"},
 
                                                                         
                                                                         
                                                                                "dog" : {"value": "The Republican Party should acknowledge issues of racial inequality in the US instead of continuing rhetoric that opportunities in the country are equal and fair, former President Barack Obama says", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"rat"},
+                                                                               "children": [{"title":"tweet this", "likes" : 393,  "name":"rat"},
                                                                                {"title":"not this", "name":"dog1", "stay":true}], "author" : "CNN Politics @CNNPolitics"},
 
                                                                                "dog1" : {"value": "Most Americans have run into trouble using their health insurance in the past year, but the majority still like their coverage, a new report has found.", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"rat"},
+                                                                               "children": [{"title":"tweet this", "likes" : 53,  "name":"rat"},
                                                                                {"title":"not this", "name":"dog2", "stay":true}], "author" : "CNN Politics @CNNPolitics"},
 
                                                                                "dog2" : {"value": "Georgia election officials have been aware of existing vulnerabilities in the state’s voting software for more than two years but continue to insist the system is safe and won’t be updated until after 2024, according to a report that was unsealed this week", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"rat"},
+                                                                               "children": [{"title":"tweet this", "likes" : 84,  "name":"rat"},
                                                                                {"title":"not this", "name":"dog3", "stay":true}], "author" : "CNN Politics @CNNPolitics"},
 
                                                                                "dog3" : {"value": "'Trump's remarks were among the most chilling and demagogic ever uttered by a major figure in modern American history.' | Analysis by CNN's Stephen Collinson", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"rat"},
+                                                                               "children": [{"title":"tweet this", "likes" : 72,  "name":"rat"},
                                                                                {"title":"not this", "name":"dog", "stay":true}], "author" : "CNN Politics @CNNPolitics"},
                                                                         
                                                                         
                                                                                "rat" : {"value": "When every dot ball mattered 👌🏻👌🏻 A total of 147,000 trees 🌲will be planted after 294 Dot Balls were bowled in #TATAIPL Playoffs and Final, courtesy of a Joint Initiative between  @BCCI &  @TataCompanies  👏🏻👏🏻", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"hat"},
+                                                                               "children": [{"title":"tweet this", "likes" : 1894,  "name":"hat"},
                                                                                {"title":"not this", "name":"rat1", "stay":true}], "author" : "IndianPremierLeague  @IPL"},
 
                                                                                "rat1" : {"value": "Shubman Gill won hearts with the bat & scored 8️⃣9️⃣0️⃣ runs to bag the Orange Cap 👏  He scored three centuries this season and played some pivotal knocks to guide his team to the Final 👌", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"hat"},
+                                                                               "children": [{"title":"tweet this", "likes" : 1621,  "name":"hat"},
                                                                                {"title":"not this", "name":"rat2", "stay":true}], "author" : "IndianPremierLeague  @IPL"},
 
                                                                                "rat2" : {"value": "Noor Ahmad with the much-needed breakthrough for Gujarat Titans 🙌 The dangerous partnership is broken as Ruturaj Gaikwad departs for 26.", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"hat"},
+                                                                               "children": [{"title":"tweet this", "likes" : 1308,  "name":"hat"},
                                                                                {"title":"not this", "name":"rat3", "stay":true}], "author" : "IndianPremierLeague  @IPL"},
 
                                                                                "rat3" : {"value": "You saw the IPL Mid show unfold on screen and in the stadium 🏟️ We are pretty sure it blew your mind 😃 Meet a select set from the team that put together this visual masterpiece for you all 💪🏻 They promise to make it bigger and better in the years to come 🤞🏻", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"hat"},
+                                                                               "children": [{"title":"tweet this", "likes" : 4500,  "name":"hat"},
                                                                                {"title":"not this", "name":"rat", "stay":true}], "author" : "IndianPremierLeague  @IPL"},
                                                                         
                                                                         
                                                                                "hat" : {"value": "To unearth the secrets of an ancient human relative, paleoanthropologist Lee Berger had to squeeze through a chute seven and a half inches wide—the length of a pencil", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"boy"},
+                                                                               "children": [{"title":"tweet this", "likes" : 158,  "name":"boy"},
                                                                                {"title":"not this", "name":"hat1", "stay":true}], "author" : "National Geographic @NatGeo"},
 
                                                                                "hat1" : {"value": "Western New Mexico is home to the Gila Wilderness—a maze of forested canyons that in 1924 became the world’s first legally protected wilderness area. It remains one of the country’s most spectacular landscapes ", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"boy"},
+                                                                               "children": [{"title":"tweet this", "likes" : 528,  "name":"boy"},
                                                                                {"title":"not this", "name":"hat2", "stay":true}], "author" : "National Geographic @NatGeo"},
 
                                                                                "hat2" : {"value": "A simple dish towel was used as a flag of truce by Confederate troops on April 9, 1865. Now yellowed with age, this often-overlooked artifact played a key role in one of the most pivotal moments in U.S. history", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"boy"},
+                                                                               "children": [{"title":"tweet this", "likes" : 257,  "name":"boy"},
                                                                                {"title":"not this", "name":"hat3", "stay":true}], "author" : "National Geographic @NatGeo"},
 
                                                                                "hat3" : {"value": "This ancestor of bears was the size of a raccoon with the claws of a cat and really bad teeth. It’s taken paleontologists decades to untangle its identity", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"boy"},
+                                                                               "children": [{"title":"tweet this", "likes" : 420,  "name":"boy"},
                                                                                {"title":"not this", "name":"hat", "stay":true}], "author" : "National Geographic @NatGeo"},
                                                                         
                                                                         
                                                                                "boy" : {"value": "The toll the crisis in #Syria has taken on people in Syria, Syrian refugees & communities in neighbouring countries is immense. Light at the end of the tunnel remains possible. At #SyriaConf2023, we count on donors to step up support and commitment.", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"gil"},
+                                                                               "children": [{"title":"tweet this", "likes" : 110,  "name":"gil"},
                                                                                {"title":"not this", "name":"boy1", "stay":true}], "author" : "UNDP at EU @UNDPEU"},
 
                                                                                "boy1" : {"value": "For 77 years, the UN has been working to create a better world where all people are able to enjoy peace, prosperity & human rights.", 
-                                                                               "children": [{"title":"tweet this", "likes" : 0,  "name":"gil"},
+                                                                               "children": [{"title":"tweet this", "likes" : 1688,  "name":"gil"},
                                                                                {"title":"not this", "name":"boy2", "stay":true}], "author" : "United Nations @UN"},
 
                                                                                "boy2" : {"value": "12 years of conflict in Syria have left 15.3 million people in desperate need of humanitarian aid. @WFP is urging partners to step up support amid an unprecedented funding crisis.", 
