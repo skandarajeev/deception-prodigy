@@ -6,6 +6,7 @@ export default function page() {
   const [card, newChoice] = useState("start");
   const [progress, updateProgress] = useState([]);
   const [parentButton, changeParent] = useState({});
+  const [likes, changeLikes] = useState(0);
 
   const fetcher = (data) =>
     fetch(data, {
@@ -25,6 +26,10 @@ export default function page() {
           let list = progress.concat(data);
 
           updateProgress(list);
+          if (parentButton.likes) {
+            let totalLikes = likes + parentButton.likes;
+            changeLikes(totalLikes);
+          }
         }
         return data;
       });
@@ -84,22 +89,26 @@ export default function page() {
             </div>
           ))}
         </div>
+        <div className={styles.buttonArea}>
+          {data.children.map((choice) => (
+            <button
+              className={styles.button54}
+              align="center"
+              key={choice.id}
+              onClick={async () => {
+                await changeParent(choice);
+                await newChoice(choice.name);
 
-        {data.children.map((choice) => (
-          <button
-            className={styles.button54}
-            align="center"
-            key={choice.id}
-            onClick={async () => {
-              await changeParent(choice);
-              await newChoice(choice.name);
-
-              mutate();
-            }}
-          >
-            {choice.title}
-          </button>
-        ))}
+                mutate();
+              }}
+            >
+              {choice.title}
+            </button>
+          ))}
+        </div>
+        <div className={styles.likes}>
+          <h1>{likes} ❤️ likes</h1>
+        </div>
       </div>
     );
   }
