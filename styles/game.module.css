@@ -23,6 +23,7 @@
 
 
 .button54 {
+   text-align: center;
   margin-top: 1.5rem;
   margin-left: 1.5rem;
   margin-right: 1.5rem;
@@ -63,4 +64,13 @@
 .author{
 
   color: white;
+}
+
+.likes{
+ text-align: center;
+ 
+  
+}
+.buttonArea{
+  text-align: center;
 }
