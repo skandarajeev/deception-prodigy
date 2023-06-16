@@ -108,3 +108,15 @@
   justify-content: space-between;
   row-gap: 2rem;
 }
+
+.likes {
+  text-align: center;
+  margin-bottom: 1.5rem;
+
+
+
+}
+
+.buttonArea {
+  text-align: center;
+}
