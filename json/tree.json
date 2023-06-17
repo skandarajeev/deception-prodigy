@@ -5,15 +5,15 @@
     "start" : {"value": "Round 3", 
     "children": [{"title":"Start", "name":"cat"}]}, 
      "cat" : {"value": "Scrolling through tweets while watching mini video (pic in pic) is great", 
-     "children": [{"title":"tweet this", "likes" : 754000,  "name":"dod"},
+     "children": [{"title":"tweet this", "likes" : 75400,  "name":"dod"},
      {"title":"not this", "name":"cat1", "stay":true}], "tag" : "@elonmusk", "author"  : "Elon Musk @elonmusk"},
 
      "cat1" : {"value": "*🇺🇸* For those who died for freedom *🇺🇸*", 
-     "children": [{"title":"tweet this", "likes" : 3571000,  "name":"dod"},
+     "children": [{"title":"tweet this", "likes" : 35710,  "name":"dod"},
      {"title":"not this", "name":"cat2", "stay":true}], "tag" : "@elonmusk", "author"  : "Elon Musk"},
 
      "cat2" : {"value": "I was today’s years old when I learned that some people genuinely love cooked salmon", 
-     "children": [{"title":"tweet this", "likes" : 1272000,  "name":"dod"},
+     "children": [{"title":"tweet this", "likes" : 12720,  "name":"dod"},
      {"title":"not this", "name":"cat3", "stay":true}], "tag" : "@elonmusk", "author"  : "Elon Musk @elonmusk"},
 
      "cat3" : {"value": "Walter @WalterIsaacson is incredibly thorough in his research. Highly recommend his other books!", 
@@ -100,88 +100,88 @@
      {"title":"not this", "name":"boy2", "stay":true}], "tag" : "@elonmusk", "author"  : "United Nations @UN"},
 
      "boy2" : {"value": "12 years of conflict in Syria have left 15.3 million people in desperate need of humanitarian aid. @WFP is urging partners to step up support amid an unprecedented funding crisis.", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"gil"},
+     "children": [{"title":"tweet this", "likes" : 1232,  "name":"gil"}, 
      {"title":"not this", "name":"boy3", "stay":true}], "tag" : "@elonmusk", "author"  : "United Nations @UN"},
 
      "boy3" : {"value": "The number of children forcibly displaced from their homes doubled in the last decade due to conflict, violence, and climate disasters. UNICEF calls on governments to take urgent action to ensure these children are safe, healthy, learning, and protected.", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"gil"},
+     "children": [{"title":"tweet this", "likes" : 1345,  "name":"gil"},
      {"title":"not this", "name":"boy", "stay":true}], "tag" : "@elonmusk", "author"  : "United Nations @UN"},
 
 
      "gil" : {"value": "If you learn how to handle your physiological and psychological processes, Being Ecstatic is the only way you can Be.", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"bad"},
+     "children": [{"title":"tweet this", "likes" : 5676,  "name":"bad"},
      {"title":"not this", "name":"gil1", "stay":true}], "tag" : "@elonmusk", "author"  : "Sadhguru @SadhguruJV"},
 
      "gil1" : {"value": "Your ability to Love, Reach Out, and Experience Life is Limitless. The limitation is only in the actions of the body and mind.", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"bad"},
+     "children": [{"title":"tweet this", "likes" : 2321,  "name":"bad"},
      {"title":"not this", "name":"gil2", "stay":true}], "tag" : "@elonmusk", "author"  : "Sadhguru @SadhguruJV"},
 
      "gil2" : {"value": "The largest ecosystem on the planet and the eternal womb of Life. May we revere and preserve our oceans for the Life that they are and the zillions of lifeforms that they sustain. -Sg #WorldOceansDay @WorldOceansDay", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"bad"},
+     "children": [{"title":"tweet this", "likes" : 1242,  "name":"bad"},
      {"title":"not this", "name":"gil3", "stay":true}], "tag" : "@elonmusk", "author"  : "Sadhguru @SadhguruJV"},
 
      "gil3" : {"value": "Spiritual Process is not a social activity; it is something you do Within Yourself.", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"bad"},
+     "children": [{"title":"tweet this", "likes" : 2222,  "name":"bad"},
      {"title":"not this", "name":"gil", "stay":true}], "tag" : "@elonmusk", "author"  : "Sadhguru @SadhguruJV"},
 
 
      "bad" : {"value": "To help with trip planning and exploration this season, we're making updates to @GoogleMaps, like expanding Immersive View to new cities and landmarks, glanceable directions and bringing updates to your Recent highlights on desktop. See what else is new ↓", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"sad"},
+     "children": [{"title":"tweet this", "likes" : 5656,  "name":"sad"},
      {"title":"not this", "name":"bad1", "stay":true}], "tag" : "@elonmusk", "author"  : "Google @Google"},
 
      "bad1" : {"value": "Willi Ninja is forever in vogue.   Today’s #GoogleDoodle spotlights the dancer and choreographer who was known as the 'Godfather of Vogue.' Learn how Willi paved the path for diverse LGBTQ+ representation and acceptance in the ‘80s & ‘90s", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"sad"},
+     "children": [{"title":"tweet this", "likes" : 5432,  "name":"sad"},
      {"title":"not this", "name":"bad2", "stay":true}], "tag" : "@elonmusk", "author"  : "Google @Google"},
 
      "bad2" : {"value": "We’re supporting local newsrooms across the U.S. with new @GoogleNewsInit     partnerships with 5 news organizations, providing financial grants and training to 1,000 publications. Plus, we’re helping audiences find and engage with quality news.", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"sad"},
+     "children": [{"title":"tweet this", "likes" : 2223,  "name":"sad"},
      {"title":"not this", "name":"bad3", "stay":true}], "tag" : "@elonmusk", "author"  : "Google @Google"},
 
      "bad3" : {"value": "Personalize Google Assistant with new natural-sounding voices, including two we’ve just added to our diverse collection in the U.S. And we’ve made them easier to discover — just say “#HeyGoogle, change your voice” to explore", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"sad"},
+     "children": [{"title":"tweet this", "likes" : 3532,  "name":"sad"},
      {"title":"not this", "name":"bad", "stay":true}], "tag" : "@elonmusk", "author"  : "Google @Google"},
 
 
      "sad" : {"value": "‘Extraction 2’ Review: Chris Hemsworth Returns for Netflix’s Brainlessly Over-the-Top Sequel", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"tad"},
+     "children": [{"title":"tweet this", "likes" : 5632,  "name":"tad"},
      {"title":"not this", "name":"sad1", "stay":true}], "tag" : "@elonmusk", "author"  : "The Hollywood Reporter  @THR"},
 
      "sad1" : {"value": "Tom Holland breaks free.            After six stints as Spidey and eager for post-superhero adventures, #TheCrowdedRoom star opens up about the pressures of mega-celebrity, life with Zendaya and his group chat with Tobey Maguire and Andrew Garfield", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"tad"},
+     "children": [{"title":"tweet this", "likes" : 4213,  "name":"tad"},
      {"title":"not this", "name":"sad2", "stay":true}], "tag" : "@elonmusk", "author"  : "The Hollywood Reporter  @THR"},
 
      "sad2" : {"value": "Asia’s Movie Theaters Get Innovative to Fill Seats: Dog-friendly Cinemas, ‘Little Mermaid’ Cosplay and Critic-Hosted Screenings", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"tad"},
+     "children": [{"title":"tweet this", "likes" : 3213,  "name":"tad"},
      {"title":"not this", "name":"sad3", "stay":true}], "tag" : "@elonmusk", "author"  : "The Hollywood Reporter  @THR"},
 
      "sad3" : {"value": "Tom Holland on negative reviews for #TheCrowdedRoom: “It was a kick in the teeth. Rolling over, looking up the reviews, and then all of a sudden I was like, ‘Wow. That’s a bad review.’ Sometimes there’s a redeeming quality in there. There was nothing.”", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"tad"},
+     "children": [{"title":"tweet this", "likes" : 5321,  "name":"tad"},
      {"title":"not this", "name":"sad", "stay":true}], "tag" : "@elonmusk", "author"  : "The Hollywood Reporter  @THR"},
 
 
      "tad" : {"value": "In #9YearsOfGatiAndPragati, we nurtured the roots of growth and development in India, shaping an infrastructure landscape that is unparalleled. Every sector has witnessed swift advancement, setting the stage for a developed India.", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"gad"},
+     "children": [{"title":"tweet this", "likes" : 2341,  "name":"gad"},
      {"title":"not this", "name":"tad1", "stay":true}], "tag" : "@elonmusk", "author"  : "Narendra Modi @narendramodi"},
 
      "tad1" : {"value": "Delighted that the Resolution to establish a new Memorial Wall for fallen Peacekeepers, piloted by India, has been adopted in the UN General Assembly. The Resolution received a record 190 co-sponsorships. Grateful for everyone's support.", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"gad"},
+     "children": [{"title":"tweet this", "likes" : 5325,  "name":"gad"},
      {"title":"not this", "name":"tad2", "stay":true}], "tag" : "@elonmusk", "author"  : "Narendra Modi @narendramodi"},
 
      "tad2" : {"value": "The last 9 years witnessed futuristic reforms which have not only improved ‘Ease of Doing Business’ but also encouraged a spirit of enterprise among our youth. We will keep working in this direction to boost growth and innovation.", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"gad"},
+     "children": [{"title":"tweet this", "likes" : 2356,  "name":"gad"},
      {"title":"not this", "name":"tad3", "stay":true}], "tag" : "@elonmusk", "author"  : "Narendra Modi @narendramodi"},
 
      "tad3" : {"value": "Our Northeast, with its unique cultures and dynamic people, is witnessing an unprecedented pace of progress. From infrastructural developments to enhanced connectivity, we are unlocking the immense potential of this region", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"gad"},
+     "children": [{"title":"tweet this", "likes" : 3532,  "name":"gad"},
      {"title":"not this", "name":"tad", "stay":true}], "tag" : "@elonmusk", "author"  : "Narendra Modi @narendramodi"},
 
 
      "gad" : {"value": "After delivering 72 spacecraft to orbit, Falcon 9 returns to Earth and completes SpaceX’s 200th landing of an orbital class rocket", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"lad"},
-     {"title":"not this", "name":"gad1", "stay":true}], "tag" : "@elonmusk", "author"  : "SpaceX @SpaceX"},
+     "children": [{"title":"tweet this", "likes" : 5321,  "name":"lad"},
+     {"title":"not this", "name":"gad2", "stay":true}], "tag" : "@elonmusk", "author"  : "SpaceX @SpaceX"},
 
      "gad1" : {"value": "After delivering 72 spacecraft to orbit, Falcon 9 returns to Earth and completes SpaceX’s 200th landing of an orbital class rocket", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"lad"},
+     "children": [{"title":"tweet this", "likes" : 5321,  "name":"lad"},
      {"title":"not this", "name":"gad2", "stay":true}], "tag" : "@elonmusk", "author"  : "SpaceX @SpaceX"},
 
      "gad2" : {"value": "Sentry Mode enables your Tesla to monitor & record potential threats while parked", 
@@ -189,13 +189,12 @@
      {"title":"not this", "name":"gad3", "stay":true}], "tag" : "@elonmusk", "author"  : "Tesla @Tesla"},
 
      "gad3" : {"value": "Tesla Model S & Model X have hospital-grade HEPA air filters, protecting you from dust, bacteria, pollen (allergies), spores & many toxic gases", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"lad"},
+     "children": [{"title":"tweet this", "likes" : 6786,  "name":"lad"},
      {"title":"not this", "name":"gad", "stay":true}], "tag" : "@elonmusk", "author"  : "Elon Musk @elonmusk"},
 
 
-     "lad" : {"value": "value", 
-     "children": [{"title":"tweet this", "likes" : 0,  "name":"had"},
-     {"title":"not this", "name":"lad1", "stay":true}], "tag" : "@elonmusk", "author"  : "Elon Musk"},
+     "lad" : {"value": "WELL DONE THE TOTAL IIKES YOU HAVE GOT: "
+     , "children" : []},
 
      "lad1" : {"value": "value", 
      "children": [{"title":"tweet this", "likes" : 0,  "name":"had"},
